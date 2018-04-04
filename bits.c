@@ -19,7 +19,7 @@ int main()
 		scanf("%d",&ar[i]);
 	}
     
-    
+    	// Bit Stuffing
 	for(i=0,j=0;i<n;i++,j++)
     
 	{
